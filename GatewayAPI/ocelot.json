@@ -1,0 +1,56 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/customer",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/customer",
+      "UpstreamHttpMethod": [ "Get" ],
+      "SwaggerKey": "customer"
+    },
+    {
+      "DownstreamPathTemplate": "/api/product",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/product",
+      "UpstreamHttpMethod": [ "Get" ],
+      "SwaggerKey": "product"
+    }
+  ],
+
+  "SwaggerEndPoints": [
+    {
+      "Key": "customer",
+      "Config": [
+        {
+          "Name": "Customer API",
+          "Version": "v1",
+          "Url": "http://localhost:5000/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "product",
+      "Config": [
+        {
+          "Name": "Product API",
+          "Version": "v1",
+          "Url": "http://localhost:5002/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5004"
+  }
+}
