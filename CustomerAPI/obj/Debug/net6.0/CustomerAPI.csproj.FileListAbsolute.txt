@@ -5,15 +5,7 @@ C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.runtimeconfig.json
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.dll
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.pdb
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\FluentValidation.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Ocelot.dll
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -33,11 +25,3 @@ C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\obj\Debug\net6.0\refint\Cust
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.pdb
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.genruntimeconfig.cache
 C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\obj\Debug\net6.0\ref\CustomerAPI.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\Kros.Utils.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\MMLib.SwaggerForOcelot.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\trabz\RiderProjects\GatewayAPI\CustomerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
