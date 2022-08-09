@@ -10,6 +10,6 @@ public class ProductController : ControllerBase
     [HttpGet]
     public IActionResult get()
     {
-        return Ok(new List<string>{"Kalem", "Kitap", "Silgi", "Kalemtraş", "kalemlik", "Zımba"});
+        return Ok(new List<string>{"Pen", "Book", "Eraser", "Sharpener", "Pencil Case", "Staple"});
     }
 }

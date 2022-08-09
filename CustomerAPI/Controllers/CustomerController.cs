@@ -10,6 +10,6 @@ public class CustomerController : ControllerBase
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok(new List<string>{"Ahmet", "Mehmet", "Ayşe", "Fatma", "Selim", "Cemil"});
+        return Ok(new List<string>{"Maria Anders", "Ana Trujillo", "Antonio Moreno", "Thomas Hardy", "Christina Berglund", "Christina Berglund"});
     }
 }
